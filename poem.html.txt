@@ -1,0 +1,26 @@
+<html>
+<head>
+<title><poem><title/>
+</head>
+<body>
+<h1><THE WHEELS ON THE BUS<h1/>
+<p>
+<b>The wheels on the bus go round</b><br/>
+round and round<br/>
+round and round<br/>
+the wheels on the bus go round and round<br/>
+All through the town<br/>
+<p/>
+</html>
+</head>
+</body>
+<p>
+<i>The wipers on the bus go<i/><br/>
+swish,swish,swish<br/>
+swish,swish,swish<br/>
+The wipers on bus go swish,swish,swish<br/>
+<p/>
+<head/>
+<body/>
+<html/>
+
